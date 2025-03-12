@@ -1,0 +1,1 @@
+FROM tensorflow/tensorflow:2.19.0rc0-jupyter
